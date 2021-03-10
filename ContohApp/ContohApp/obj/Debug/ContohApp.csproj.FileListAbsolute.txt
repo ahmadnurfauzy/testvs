@@ -1,0 +1,17 @@
+D:\Dosen\Aplikasi\ContohApp\ContohApp\bin\Debug\ContohApp.exe.config
+D:\Dosen\Aplikasi\ContohApp\ContohApp\bin\Debug\ContohApp.exe
+D:\Dosen\Aplikasi\ContohApp\ContohApp\bin\Debug\ContohApp.pdb
+D:\Dosen\Aplikasi\ContohApp\ContohApp\obj\Debug\ContohApp.csprojAssemblyReference.cache
+D:\Dosen\Aplikasi\ContohApp\ContohApp\obj\Debug\MainWindow.g.cs
+D:\Dosen\Aplikasi\ContohApp\ContohApp\obj\Debug\App.g.cs
+D:\Dosen\Aplikasi\ContohApp\ContohApp\obj\Debug\ContohApp_MarkupCompile.cache
+D:\Dosen\Aplikasi\ContohApp\ContohApp\obj\Debug\ContohApp_MarkupCompile.lref
+D:\Dosen\Aplikasi\ContohApp\ContohApp\obj\Debug\MainWindow.baml
+D:\Dosen\Aplikasi\ContohApp\ContohApp\obj\Debug\ContohApp.g.resources
+D:\Dosen\Aplikasi\ContohApp\ContohApp\obj\Debug\ContohApp.Properties.Resources.resources
+D:\Dosen\Aplikasi\ContohApp\ContohApp\obj\Debug\ContohApp.csproj.GenerateResource.cache
+D:\Dosen\Aplikasi\ContohApp\ContohApp\obj\Debug\ContohApp.csproj.CoreCompileInputs.cache
+D:\Dosen\Aplikasi\ContohApp\ContohApp\obj\Debug\ContohApp.exe
+D:\Dosen\Aplikasi\ContohApp\ContohApp\obj\Debug\ContohApp.pdb
+D:\Dosen\Aplikasi\ContohApp\ContohApp\obj\Debug\View\HomeWindow.g.cs
+D:\Dosen\Aplikasi\ContohApp\ContohApp\obj\Debug\View\HomeWindow.baml
